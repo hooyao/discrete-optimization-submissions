@@ -1,0 +1,5 @@
+name: DiscreteOptimizationSubmission
+channels:
+  - defaults
+dependencies:
+  - python=3.8
